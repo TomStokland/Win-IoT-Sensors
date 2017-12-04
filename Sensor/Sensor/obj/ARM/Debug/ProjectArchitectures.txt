@@ -1,0 +1,1 @@
+C:\Users\RSNA\Documents\Sensor\Sensor\Sensor.csproj;arm
